@@ -1,0 +1,70 @@
+Confidence Level: 
+Total experience: 
+Can Be Groomed & Trained: Easily/TimeConsuming : 
+
+Rate in c# : 
+Rate in .NET Core: 
+Rate in ASP.NET: 
+Rate of Rest APIs: 
+Rate in EF/EF Core : 
+Rate in SQL Queries & Optimisation: 
+Coding Standard Level: 
+Known to Design Principles: 
+Exposure In Azure: Basic & Slight Hands-on Under Supervision
+Design Pattern: Just Singleton Pattern
+Problem Solving Level:
+Problem Solving Optimisation Skill:
+
+Worked on Small Functionalitites:
+Bug Fixing Skill:
+
+Questions:
+1. Do you understand the compoment Common Language Runtime (CLR) in Dot net and what is its used for?
+2. Can you name some types of classes in C#?
+3. Can you explain me about SOLID principles?
+4. How many design patterns you have worked on?
+5. How do you implement multiple inheritances in c#?
+
+Please write a code in c# code : 
+1. remove duplicate characters from a string?         input: globallogic, output: gobaic
+2. find if the given string is a palindrome or not? input: step on no pets, output: true
+                                                    input: book, output: Not Palindrome
+1. Asked for Fixing the Errors?
+2. How do you maintain CodingStandards while implementing features of product?
+3. Can interface member Contains Access Modifier?
+4. Why do we call c# a type-safe programming language?
+5. What is difference between Compile time polymorphism and Runtime polymorphism.
+6. -Compile time polymorphism: overloading
+7. Runtime polymorphism: overriding
+8. Explain how to achieve extension method?
+9. difference between singleton and static class?
+-
+1. What type of Authentication and Authorisation you have worked on ?
+2. Main difference between the two?
+3. What all securities you know in developing Web Application?
+4. What is SQL injection? and how do you prevent it?
+5. Can you explain the actual difference Between dependency Injection and Inversion in detail?
+6. Can you call Inversion of Control is Dependency Injection? or
+7. Can you call Dependency Injection is Inversion of Control?
+8. What are the injection types by which you can implement Dependency Injection?
+9. Can you explain why these days we are more focussed on implementing Dependency injection in product development?
+10. what is middleware in . net core?
+11. What is different between REST API and RESTful API?
+12. How to register an exception filter globally?
+13. Explain me ways to implement routing in Web API?
+
+********************SQL*********************************
+
+1. SQL: How many types of keys in table:
+2. What is differene between between Primary & unique key?
+3. what is clustered & non-clustered key:
+4. What is stored Proc?
+5. What is SQL Function?
+6. how many is trigger?
+7. What is DDl & DML?
+8. What is a Self-Join?
+9. Types of joins: - Left Join, Right Join, Inner join
+10. Write a Query to display the date after 15 days from today?
+
+11. Write a SQL query to find the 10th highest employee salary from an Employee table
+(Note: You may assume that there are at least 10 records in the Employee table.   )
